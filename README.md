@@ -1,2 +1,6 @@
 # Scrap-Budget
-Scrap-Budget is a comfortable way to caclcuate how much your creation would cost in real life. This can be used to race eachother in building competitions with a budget. Say goodbye to banishing items like thrusters, because you can just lower the building budget.
+
+INSTRUCTIONS:
+When you start the Main.py named file, click open and select the blueprint you want to check.
+To select an existing blueprint go to %AppData%\Roaming\Axolot Games\Scrap Mechanic\User\User_<userID here>\Blueprints
+If you arrange them by date modified the top folder will be your last blueprint.
