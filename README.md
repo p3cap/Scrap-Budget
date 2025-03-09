@@ -1,4 +1,4 @@
-Nothing complicated. I just heven't seen anyone making a price calculator for csrap mechanic (the devs should really add it).
+Nothing complicated. I just heven't seen anyone making a price calculator for scrap mechanic (the devs should really add it).
 
 # Scrap-budget
 **Scrap Mechanic creation price calculator**
