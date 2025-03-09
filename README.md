@@ -4,7 +4,7 @@ Nothing complicated. I just heven't seen anyone making a price calculator for sc
 **Scrap Mechanic creation price calculator**
 This tool allows you to calculate the price of your scrap mechanic creation. Now you can play building competitions without having to worry about somone using too op things or building huge stuff. With this tool you can compete without having to banish items like thusrters, because you can now just lower a thurest will probobly cost their whole creation.
 
-## !!THIS TOOL IS STILL WORK IN PROGRESS IT'S NOT PERFECT!!
+## !!THIS TOOL IS STILL WORK IN PROGRESS IT'S NOT COMPLETED!!
 
 INSTRUCTIONS:
 When you start the Main.py named file, click open and select the blueprint you want to check.
