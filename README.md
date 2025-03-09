@@ -1,4 +1,4 @@
-Nothing complicated. I just heavn't seen anything like it, so I made it.
+Nothing complicated. I just heven't seen anything like it, so I made it.
 
 # Scrap-budget
 
